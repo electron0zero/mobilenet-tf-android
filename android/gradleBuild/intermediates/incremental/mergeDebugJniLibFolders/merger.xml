@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="C:\Users\Electron\Desktop\wd\ML\data_mining\road-not_road\tensorflow\tensorflow\examples\android\libs"/></dataSet><dataSet config="debug"><source path="C:\Users\Electron\Desktop\wd\ML\data_mining\road-not_road\tensorflow\tensorflow\examples\android\build-types\debug\jniLibs"/></dataSet></merger>

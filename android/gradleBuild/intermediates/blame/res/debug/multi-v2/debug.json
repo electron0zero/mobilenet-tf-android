@@ -1,0 +1,232 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\Electron\\Desktop\\wd\\ML\\data_mining\\road-not_road\\tensorflow\\tensorflow\\examples\\android\\gradleBuild\\intermediates\\res\\merged\\debug\\values-v11_values-v11.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Electron\\Desktop\\wd\\ML\\data_mining\\road-not_road\\tensorflow\\tensorflow\\examples\\android\\res\\values-v11\\styles.xml",
+                    "from": {
+                        "startLines": "7,19,11",
+                        "startColumns": "2,2,2",
+                        "startOffsets": "217,782,351",
+                        "endLines": "9,21,17",
+                        "endColumns": "10,10,10",
+                        "endOffsets": "345,948,776"
+                    },
+                    "to": {
+                        "startLines": "2,5,8",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,186,355",
+                        "endLines": "4,7,14",
+                        "endColumns": "10,10,10",
+                        "endOffsets": "181,350,774"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Electron\\Desktop\\wd\\ML\\data_mining\\road-not_road\\tensorflow\\tensorflow\\examples\\android\\res\\values-v11\\template-styles.xml",
+                    "from": {
+                        "startLines": "19",
+                        "startColumns": "4",
+                        "startOffsets": "682",
+                        "endColumns": "65",
+                        "endOffsets": "743"
+                    },
+                    "to": {
+                        "startLines": "15",
+                        "startColumns": "4",
+                        "startOffsets": "779",
+                        "endColumns": "64",
+                        "endOffsets": "839"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\Electron\\Desktop\\wd\\ML\\data_mining\\road-not_road\\tensorflow\\tensorflow\\examples\\android\\gradleBuild\\intermediates\\res\\merged\\debug\\values-v21_values-v21.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Electron\\Desktop\\wd\\ML\\data_mining\\road-not_road\\tensorflow\\tensorflow\\examples\\android\\res\\values-v21\\base-template-styles.xml",
+                    "from": {
+                        "startLines": "20",
+                        "startColumns": "4",
+                        "startOffsets": "710",
+                        "endLines": "21",
+                        "endColumns": "12",
+                        "endOffsets": "787"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "3",
+                        "endColumns": "12",
+                        "endOffsets": "131"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\Electron\\Desktop\\wd\\ML\\data_mining\\road-not_road\\tensorflow\\tensorflow\\examples\\android\\gradleBuild\\intermediates\\res\\merged\\debug\\values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Electron\\Desktop\\wd\\ML\\data_mining\\road-not_road\\tensorflow\\tensorflow\\examples\\android\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "-1",
+                        "startColumns": "-1",
+                        "startOffsets": "-1"
+                    },
+                    "to": {
+                        "startLines": "20",
+                        "startColumns": "4",
+                        "startOffsets": "1232",
+                        "endColumns": "94",
+                        "endOffsets": "1322"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Electron\\Desktop\\wd\\ML\\data_mining\\road-not_road\\tensorflow\\tensorflow\\examples\\android\\res\\values\\template-styles.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1,-1,-1,-1",
+                        "startColumns": "-1,-1,-1,-1,-1,-1",
+                        "startOffsets": "-1,-1,-1,-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "19,21,22,23,24,28",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "1181,1327,1387,1440,1467,1663",
+                        "endLines": "19,21,22,23,27,33",
+                        "endColumns": "50,59,52,26,12,12",
+                        "endOffsets": "1227,1382,1435,1462,1658,1936"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Electron\\Desktop\\wd\\ML\\data_mining\\road-not_road\\tensorflow\\tensorflow\\examples\\android\\res\\values\\base-strings.xml",
+                    "from": {
+                        "startLines": "19,-1,-1,-1,18",
+                        "startColumns": "4,-1,-1,-1,4",
+                        "startOffsets": "730,-1,-1,-1,678",
+                        "endColumns": "75,-1,-1,-1,50",
+                        "endOffsets": "801,-1,-1,-1,724"
+                    },
+                    "to": {
+                        "startLines": "11,12,13,14,15",
+                        "startColumns": "4,4,4,4,4",
+                        "startOffsets": "650,726,793,852,913",
+                        "endColumns": "75,66,58,60,50",
+                        "endOffsets": "721,788,847,908,959"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Electron\\Desktop\\wd\\ML\\data_mining\\road-not_road\\tensorflow\\tensorflow\\examples\\android\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1",
+                        "startColumns": "-1,-1,-1",
+                        "startOffsets": "-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "16,17,18",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "964,1047,1097",
+                        "endColumns": "82,49,83",
+                        "endOffsets": "1042,1092,1176"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Electron\\Desktop\\wd\\ML\\data_mining\\road-not_road\\tensorflow\\tensorflow\\examples\\android\\res\\values\\colors.xml",
+                    "from": {
+                        "startLines": "-1",
+                        "startColumns": "-1",
+                        "startOffsets": "-1"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "54",
+                        "endOffsets": "105"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Electron\\Desktop\\wd\\ML\\data_mining\\road-not_road\\tensorflow\\tensorflow\\examples\\android\\res\\values\\template-dimens.xml",
+                    "from": {
+                        "startLines": "-1,-1,-1,-1,-1,-1,-1",
+                        "startColumns": "-1,-1,-1,-1,-1,-1,-1",
+                        "startOffsets": "-1,-1,-1,-1,-1,-1,-1"
+                    },
+                    "to": {
+                        "startLines": "4,5,6,7,8,9,10",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "295,365,408,452,497,540,582",
+                        "endColumns": "69,42,43,44,42,41,67",
+                        "endOffsets": "360,403,447,492,535,577,645"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\Electron\\Desktop\\wd\\ML\\data_mining\\road-not_road\\tensorflow\\tensorflow\\examples\\android\\gradleBuild\\intermediates\\res\\merged\\debug\\values-sw600dp-v13_values-sw600dp-v13.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Electron\\Desktop\\wd\\ML\\data_mining\\road-not_road\\tensorflow\\tensorflow\\examples\\android\\res\\values-sw600dp\\template-dimens.xml",
+                    "from": {
+                        "startLines": "20,21",
+                        "startColumns": "4,4",
+                        "startOffsets": "689,758",
+                        "endColumns": "67,67",
+                        "endOffsets": "752,821"
+                    },
+                    "to": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,123",
+                        "endColumns": "67,67",
+                        "endOffsets": "118,186"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\Electron\\Desktop\\wd\\ML\\data_mining\\road-not_road\\tensorflow\\tensorflow\\examples\\android\\res\\values-sw600dp\\template-styles.xml",
+                    "from": {
+                        "startLines": "18",
+                        "startColumns": "4",
+                        "startOffsets": "652",
+                        "endLines": "22",
+                        "endColumns": "12",
+                        "endOffsets": "896"
+                    },
+                    "to": {
+                        "startLines": "4",
+                        "startColumns": "4",
+                        "startOffsets": "191",
+                        "endLines": "8",
+                        "endColumns": "12",
+                        "endOffsets": "431"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\Electron\\Desktop\\wd\\ML\\data_mining\\road-not_road\\tensorflow\\tensorflow\\examples\\android\\gradleBuild\\intermediates\\res\\merged\\debug\\values-v14_values-v14.arsc.flat",
+            "map": [
+                {
+                    "source": "C:\\Users\\Electron\\Desktop\\wd\\ML\\data_mining\\road-not_road\\tensorflow\\tensorflow\\examples\\android\\res\\values-v14\\styles.xml",
+                    "from": {
+                        "startLines": "7",
+                        "startColumns": "2",
+                        "startOffsets": "221",
+                        "endLines": "9",
+                        "endColumns": "10",
+                        "endOffsets": "363"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "4",
+                        "endColumns": "10",
+                        "endOffsets": "195"
+                    }
+                }
+            ]
+        }
+    ]
+}
